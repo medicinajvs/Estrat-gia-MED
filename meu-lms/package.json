@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://medicinajvs.github.io/Estrat-gia-MED/",
+  "homepage": "https://medicinajvs.github.io/Estrat-gia-MED/meu-lms/index.html",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
